@@ -11,4 +11,9 @@ public class gitfirst {
 
     }
     public void sum()
-    {}}
+    {
+        int i=0;
+
+    }
+
+}
