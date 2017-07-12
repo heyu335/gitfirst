@@ -8,5 +8,7 @@ public class gitfirst {
         int i =0;
         int y=0;
 
+
     }
-}
+    public void sum()
+    {}}
