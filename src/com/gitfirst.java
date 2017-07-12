@@ -6,7 +6,7 @@ package com;
 public class gitfirst {
     public static void main (String[] args){
         int i =0;
-
+        int y=0;
 
     }
 }
